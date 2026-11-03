@@ -22,7 +22,7 @@ output/: made by the scripts.
 Ryan Zimmerman, 10/29/2026
 
 ##Manually Curating Data for R scripts
-clean_test_scores for Algebra 1, 9th grade English,
+clean_test_scores for Algebra 2, 9th grade English,
 and 11th grade Science were created by:
 
 Delete the first two lines in the excel sheet. The first two rows
