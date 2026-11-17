@@ -1,0 +1,570 @@
+district_id,district_name,budget_per_pupil
+0010,Absecon City,22157
+0110,Atlantic City,29276
+0120,Atlantic Co Vocational,17988
+0125,Atlantic Co Special Serv,50249
+0570,Brigantine City,41613
+0590,Buena Regional,21061
+1300,Egg Harbor City,24471
+1310,Egg Harbor Twp,22714
+1410,Estell Manor City,19669
+1540,Folsom Boro,19034
+1690,Galloway Twp,21755
+1790,Greater Egg Harbor Reg,22660
+1940,Hamilton Twp,20285
+1960,Hammonton Town,18560
+2680,Linwood City,20926
+2910,Mainland Regional,24381
+3020,Margate City,38160
+3480,Mullica Twp,21184
+3720,Northfield City,20241
+4180,Pleasantville City,26098
+4240,Port Republic City,22822
+4800,Somers Point City,24732
+5350,Ventnor City,32146
+5760,Weymouth Twp,19396
+0040,Allendale Boro,23023
+0080,Alpine Boro,35241
+0285,Bergen Co Special Service,103100
+0290,Bergen County Vocational,28583
+0300,Bergenfield Boro,21756
+0440,Bogota Boro,23758
+0740,Carlstadt Boro,28675
+0745,Carlstadt-East Rutherford,17962
+0890,Cliffside Park Boro,18777
+0930,Closter Boro,20209
+0990,Cresskill Boro,20276
+1070,Demarest Boro,23829
+1130,Dumont Boro,18699
+1230,East Rutherford Boro,23344
+1270,Edgewater Boro,23402
+1345,Elmwood Park,18768
+1360,Emerson Boro,23326
+1370,Englewood City,21075
+1380,Englewood Cliffs Boro,32777
+1450,Fair Lawn Boro,21390
+1470,Fairview Boro,20598
+1550,Fort Lee Boro,20579
+1580,Franklin Lakes Boro,30907
+1700,Garfield City,24282
+1760,Glen Rock Boro,22050
+1860,Hackensack City,23985
+2050,Harrington Park Boro,22914
+2080,Hasbrouck Heights Boro,20628
+2090,Haworth Boro,22451
+2180,Hillsdale Boro,23611
+2200,Ho Ho Kus Boro,20531
+2620,Leonia Boro,20307
+2710,Little Ferry Boro,21950
+2740,Lodi Borough,20215
+2860,Lyndhurst Twp,19142
+2900,Mahwah Twp,25818
+3060,Maywood Boro,19238
+3170,Midland Park Boro,26212
+3330,Montvale Boro,19913
+3350,Moonachie Boro,21895
+3550,New Milford Boro,21811
+3600,North Arlington Boro,19810
+3700,Northern Highlands Reg,24493
+3710,Northern Valley Regional,25257
+3730,Northvale Boro,22172
+3740,Norwood Boro,19112
+3760,Oakland Boro,26666
+3850,Old Tappan Boro,24531
+3870,Oradell Boro,18010
+3910,Palisades Park,17126
+3930,Paramus Boro,24991
+3940,Park Ridge Boro,30263
+3960,Pascack Valley Regional,32606
+4300,Ramapo-Indian Hill Reg,30602
+4310,Ramsey Boro,29853
+4370,Ridgefield Boro,27461
+4380,Ridgefield Park Twp,26050
+4390,Ridgewood Village,21299
+4405,River Dell Regional,21682
+4410,River Edge Boro,18287
+4430,River Vale Twp,24601
+4470,Rochelle Park Twp,23184
+4600,Rutherford Boro,19021
+4610,Saddle Brook Twp,20083
+4620,Saddle River Boro,42505
+4870,South Hackensack Twp,24985
+5150,Teaneck Twp,28294
+5160,Tenafly Boro,22889
+5330,Upper Saddle River Boro,26213
+5410,Waldwick Boro,22890
+5430,Wallington Boro,18180
+5755,Westwood Regional,23333
+5830,Wood-Ridge Boro,18597
+5880,Woodcliff Lake Boro,25430
+5920,Wyckoff Twp,21805
+0200,Bass River Twp,0
+0380,Beverly City,23729
+0475,Bordentown Regional,20289
+0600,Burlington City,25465
+0605,Burlington Co Spec Serv,79585
+0610,Burlington Co Vocational,18363
+0620,Burlington Twp,20375
+0830,Chesterfield Twp,20731
+0840,Cinnaminson Twp,19462
+1030,Delanco Twp,18686
+1060,Delran Twp,20411
+1250,Eastampton Twp,16859
+1280,Edgewater Park Twp,22600
+1420,Evesham Twp,18063
+1520,Florence Twp,19982
+1910,Hainesport Twp,21736
+2610,Lenape Regional,22630
+2850,Lumberton Twp,20174
+2960,Mansfield Twp,19401
+3010,Maple Shade Twp,24533
+3070,Medford Lakes Boro,21065
+3080,Medford Twp,16779
+3360,Moorestown Twp,20890
+3430,Mount Holly Twp,23203
+3440,Mount Laurel Twp,18509
+3540,New Hanover Twp,20230
+3650,North Hanover Twp,22253
+3690,Northern Burlington Reg,20535
+3920,Palmyra Boro,20213
+4050,Pemberton Twp,25019
+4320,Rancocas Valley Regional,18281
+4450,Riverside Twp,22280
+4460,Riverton,21792
+4740,Shamong Twp,21668
+4930,Southampton Twp,20518
+5010,Springfield Twp,15839
+5130,Tabernacle Twp,17504
+5490,Washington Twp,0
+5720,Westampton,18498
+5805,Willingboro Twp,22372
+5890,Woodland Twp,31174
+0150,Audubon Boro,19687
+0190,Barrington Boro,21612
+0260,Bellmawr Boro,19214
+0330,Berlin Boro,16370
+0340,Berlin Twp,23078
+0390,Black Horse Pike Regional,20539
+0580,Brooklawn Boro,22126
+0680,Camden City,29260
+0700,Camden County Vocational,22150
+0800,Cherry Hill Twp,18875
+0880,Clementon Boro,20382
+0940,Collingswood Boro,19361
+1255,Eastern Camden County Reg,19925
+1720,Gibbsboro Boro,21795
+1770,Gloucester City,21031
+1780,Gloucester Twp,18479
+1880,Haddon Heights Boro,19119
+1890,Haddon Twp,16884
+1900,Haddonfield Boro,16568
+2540,Laurel Springs Boro,21302
+2560,Lawnside Boro,27627
+2670,Lindenwold Boro,19949
+2890,Magnolia Boro,25569
+3110,Merchantville Boro,22955
+3420,Mount Ephraim Boro,21402
+3770,Oaklyn Boro,24497
+4060,Pennsauken Twp,24583
+4110,Pine Hill Boro,22896
+4590,Runnemede Boro,21835
+4790,Somerdale Boro,21496
+5035,Sterling High School Dist,22279
+5080,Stratford Boro,21222
+5400,Voorhees Twp,18727
+5560,Waterford Twp,20795
+5820,Winslow Twp,20059
+5900,Woodlynne Boro,30184
+0170,Avalon Boro,34071
+0710,Cape May City,32053
+0715,Cape May Co Special Serv,62303
+0720,Cape May Co Vocational,25072
+1080,Dennis Twp,20809
+2820,Lower Cape May Regional,24214
+2840,Lower Twp,19138
+3130,Middle Twp,17300
+3680,North Wildwood City,55374
+3780,Ocean City,26993
+5060,Stone Harbor Boro,30872
+5340,Upper Twp,18947
+5610,West Cape May Boro,28780
+5790,Wildwood City,25760
+5800,Wildwood Crest Boro,46959
+5840,Woodbine Boro,20522
+0540,Bridgeton City,25903
+0950,Commercial Twp,18028
+0995,Cumberland Co Vocational,21478
+0997,Cumberland Regional,21720
+1020,Deerfield Twp,20620
+1120,Downe Twp,20104
+1460,Fairfield Twp,18533
+1466,Greenwich-Stow Creek Regional,24351
+2270,Hopewell Twp,19536
+2570,Lawrence Twp,19846
+3050,Maurice River Twp,19049
+3230,Millville City,21204
+5300,Upper Deerfield Twp,20760
+5390,Vineland City,20678
+0250,Belleville Town,18971
+0410,Bloomfield Twp,19293
+0660,Caldwell-West Caldwell,21077
+0760,Cedar Grove Twp,22067
+1210,East Orange,20415
+1390,Essex Co Voc-Tech,26804
+1400,Essex Fells Boro,25538
+1465,Fairfield Twp,20197
+1750,Glen Ridge Boro,21607
+2330,Irvington Township,20130
+2730,Livingston Twp,19456
+3190,Millburn Twp,22370
+3310,Montclair Town,21799
+3570,Newark City,26841
+3630,North Caldwell Boro,23313
+3750,Nutley Town,17174
+3880,City of Orange Twp,23272
+4530,Roseland Boro,22894
+4900,South Orange-Maplewood,21798
+5370,Verona Boro,18464
+5630,West Essex Regional,24565
+5680,West Orange Town,24113
+0860,Clayton Boro,20375
+0870,Clearview Regional,16757
+1100,Deptford Twp,19104
+1180,East Greenwich Twp,17558
+1330,Elk Twp,20729
+1590,Franklin Twp,16261
+1715,Gateway Regional,27752
+1730,Glassboro,19618
+1774,Gloucester Co Spec Serv,64243
+1775,Gloucester Co Vocational,18888
+1830,Greenwich Twp,22282
+2070,Harrison Twp,16428
+2440,Kingsway Regional,15758
+2750,Logan Twp,22004
+2990,Mantua Twp,18183
+3280,Monroe Twp,17648
+3490,National Park Boro,25281
+4020,Paulsboro Boro,25864
+4140,Pitman Boro,18365
+4880,South Harrison Twp,17056
+4940,Delsea Regional H.S Dist.,19544
+5120,Swedesboro-Woolwich,17510
+5500,Washington Twp,18656
+5590,Wenonah Boro,21563
+5620,West Deptford Twp,18855
+5740,Westville Boro,23478
+5860,Woodbury City,23075
+5870,Woodbury Heights Boro,20255
+0220,Bayonne City,20112
+1200,East Newark Boro,20916
+1850,Guttenberg Town,23218
+2060,Harrison Town,18509
+2210,Hoboken City,22327
+2295,Hudson County Vocational,24023
+2390,Jersey City,28117
+2410,Kearny Town,24037
+3610,North Bergen Twp,19742
+4730,Secaucus Town,19480
+5240,Union City,23077
+5580,Weehawken Twp,22226
+5670,West New York Town,22329
+0020,Alexandria Twp,23520
+0370,Bethlehem Twp,24055
+0430,Bloomsbury Boro,27665
+0670,Califon Boro,28513
+0910,Clinton-Glen Gardner,19764
+0920,Clinton Twp,23860
+1040,Delaware Twp,25617
+1050,Delaware Valley Regional,25634
+1160,East Amwell Twp,24756
+1376,South Hunterdon Regional School District,29016
+1510,Flemington-Raritan Reg,19574
+1600,Franklin Twp,26457
+1680,Frenchtown Boro,32779
+1970,Hampton Boro,28408
+2140,High Bridge Boro,27066
+2220,Holland Twp,24163
+2300,Hunterdon Central Reg,27523
+2308,Hunterdon Co Vocational,14577
+2450,Kingwood Twp,23420
+2590,Lebanon Boro,29512
+2600,Lebanon Twp,25536
+3180,Milford Boro,36095
+3660,North Hunterdon-Voorhees Regional,26290
+4350,Readington Twp,23115
+5180,Tewksbury Twp,31531
+5270,Union Twp,21431
+1245,East Windsor Regional,21175
+1430,Ewing Twp,23005
+1950,Hamilton Twp,18438
+2280,Hopewell Valley Regional,26049
+2580,Lawrence Twp,21458
+3103,Mercer Co Special Services School District,95262
+3105,Mercer County Vocational,22246
+4255,Princeton,25220
+5210,Trenton Public School District,24083
+5510,Robbinsville Twp,18252
+5715,W Windsor-Plainsboro Reg,21462
+0750,Carteret Boro,19664
+0970,Cranbury Twp,33045
+1140,Dunellen Boro,20984
+1170,East Brunswick Twp,19850
+1290,Edison Twp,16832
+2150,Highland Park Boro,23126
+2370,Jamesburg Boro,22345
+3120,Metuchen Boro,19293
+3140,Middlesex Boro,21927
+3150,Middlesex Co Vocational,19439
+3220,Milltown Boro,20659
+3290,Monroe Twp,19511
+3530,New Brunswick City,27485
+3620,North Brunswick Twp,22753
+3845,Old Bridge Twp,19235
+4090,Perth Amboy City,24070
+4130,Piscataway Twp,19650
+4660,Sayreville Boro,19738
+4830,South Amboy City,16657
+4860,South Brunswick Twp,19205
+4910,South Plainfield Boro,18731
+4920,South River Boro,20399
+4970,Spotswood Boro,20452
+5850,Woodbridge Twp,21066
+0100,Asbury Park City,33850
+0180,Avon Boro,33657
+0270,Belmar Boro,23673
+0500,Bradley Beach Boro,33036
+0560,Brielle Boro,22010
+0945,Colts Neck Twp,27244
+1000,Deal Boro,34944
+1260,Eatontown Boro,25276
+1440,Fair Haven Boro,19580
+1456,Henry Hudson Regional,27802
+1490,Farmingdale Boro,23741
+1640,Freehold Boro,25045
+1650,Freehold Regional,18549
+1660,Freehold Twp,24632
+2105,Hazlet Twp,21015
+2230,Holmdel Twp,22962
+2290,Howell Twp,20549
+2400,Keansburg Boro,24572
+2430,Keyport Boro,24425
+2720,Little Silver Boro,24803
+2770,Long Branch City,22521
+2920,Manalapan-Englishtown Reg,19699
+2930,Manasquan Boro,23805
+3030,Marlboro Twp,21008
+3040,Matawan-Aberdeen Regional,20115
+3160,Middletown Twp,20220
+3200,Millstone Twp,24193
+3250,Monmouth Beach Boro,26781
+3260,Monmouth Co Vocational,22238
+3270,Monmouth Regional,29835
+3500,Neptune City,25370
+3510,Neptune Twp,26375
+3810,Ocean Twp,26476
+3830,Oceanport Boro,23249
+4360,Red Bank Boro,23482
+4365,Red Bank Regional,23906
+4520,Roosevelt Boro,40023
+4570,Rumson Boro,23222
+4580,Rumson-Fair Haven Reg,26832
+4690,Sea Girt Boro,38409
+4760,Shore Regional,33340
+4770,Shrewsbury Boro,22198
+4980,Spring Lake Boro,43613
+4990,Spring Lake Heights Boro,26245
+5185,Tinton Falls,23649
+5230,Union Beach,20044
+5310,Upper Freehold Regional,19541
+5420,Wall Twp,25369
+5640,West Long Branch Boro,21573
+5645,Loch Arbour School District,0
+0450,Boonton Town,21340
+0460,Boonton Twp,24139
+0630,Butler Boro,21140
+0785,Sch Dist of the Chathams,20772
+0820,Chester Twp,23240
+1090,Denville Twp,21521
+1110,Dover Town,23288
+1190,East Hanover Twp,25217
+1530,Florham Park Boro,23217
+1990,Hanover Park Regional,30192
+2000,Hanover Twp,24528
+2010,Harding Township,32414
+2380,Jefferson Twp,21676
+2460,Kinnelon Boro,25193
+2650,Lincoln Park Boro,17235
+2870,Madison Boro,22282
+3090,Mendham Boro,26133
+3100,Mendham Twp,25451
+3240,Mine Hill Twp,21279
+3340,Montville Twp,23053
+3365,Morris County Vocational,16037
+3370,Morris Hills Regional,27473
+3380,Morris Plains Boro,26701
+3385,Morris School District,22588
+3410,Mount Arlington Boro,24268
+3450,Mount Olive Twp,23755
+3460,Mountain Lakes Boro,30760
+3520,Netcong Boro,21573
+3950,Parsippany-Troy Hills Twp,21679
+4000,Long Hill Twp,21922
+4080,Pequannock Twp,22426
+4330,Randolph Twp,21899
+4440,Riverdale Boro,28010
+4480,Rockaway Boro,20788
+4490,Rockaway Twp,23141
+4560,Roxbury Twp,22489
+5520,Washington Twp,21191
+5660,West Morris Regional,24923
+5770,Wharton Boro,26943
+0185,Barnegat Twp,16936
+0210,Bay Head Boro,29431
+0230,Beach Haven Boro,34223
+0320,Berkeley Twp,18594
+0530,Brick Twp,18348
+0770,Central Regional,20424
+1150,Eagleswood Twp,27115
+2350,Island Heights Boro,22052
+2360,Jackson Twp,18178
+2480,Lacey Twp,18880
+2500,Lakehurst Boro,18634
+2520,Lakewood Twp,32375
+2550,Lavallette Boro,26894
+2690,Little Egg Harbor Twp,18536
+2760,Long Beach Island,38718
+2940,Manchester Twp,20757
+3790,Ocean County Vocational,13497
+3800,Ocean Gate Boro,23234
+3820,Ocean Twp,20551
+4105,Pinelands Regional,21820
+4190,Plumsted Twp,19180
+4210,Point Pleasant Boro,18159
+4220,Point Pleasant Beach Boro,28270
+4710,Seaside Heights Boro,31601
+4950,Southern Regional,23554
+5020,Stafford Twp,21433
+5190,Toms River Regional,16854
+5220,Tuckerton Boro,20341
+0420,Bloomingdale Boro,22439
+0900,Clifton City,21147
+1920,Haledon Boro,21516
+2100,Hawthorne Boro,20701
+2510,Lakeland Regional,23780
+2700,Little Falls Twp,19692
+3640,North Haledon Boro,19912
+3970,Passaic City,24842
+3980,Passaic Co Manchester Reg,23523
+3990,Passaic Valley Regional,26346
+3995,Passaic County Vocational,26192
+4010,Paterson City,24142
+4230,Pompton Lakes Boro,21590
+4270,Prospect Park Boro,18362
+4400,Ringwood Boro,26590
+5200,Totowa Boro,23495
+5440,Wanaque Boro,20454
+5570,Wayne Twp,22751
+5650,West Milford Twp,23445
+5690,Woodland Park,19902
+0060,Alloway Twp,16402
+1350,Elsinboro Twp,24643
+2800,Lower Alloways Creek,21650
+2950,Mannington Twp,21077
+3860,Oldmans Twp,16860
+4070,Penns Grv-Carneys Pt Reg,21900
+4075,Pennsville,21497
+4150,Pittsgrove Twp,18777
+4280,Quinton Twp,21791
+4630,Salem City,20746
+4635,Salem Co Special Service,63018
+4640,Salem County Vocational,22556
+5320,Upper Pittsgrove Twp,17588
+5910,Woodstown-Pilesgrove Reg,18776
+0240,Bedminster Twp,32329
+0350,Bernards Twp,22790
+0490,Bound Brook Boro,22150
+0510,Branchburg Twp,25585
+0555,Bridgewater-Raritan Reg,21994
+1610,Franklin Twp,23761
+1810,Green Brook Twp,25959
+2170,Hillsborough Twp,19197
+3000,Manville Boro,25845
+3320,Montgomery Twp,22203
+3670,North Plainfield Boro,24238
+4810,Somerset Co Vocational,32638
+4815,Somerset Hills Regional,25909
+4820,Somerville Boro,23509
+4850,South Bound Brook,20615
+5470,Warren Twp,29097
+5540,Watchung Boro,24712
+5550,Watchung Hills Regional,25285
+0090,Andover Reg,28925
+0640,Byram Twp,20310
+1560,Frankford Twp,21306
+1570,Franklin Boro,22622
+1630,Fredon Twp,23254
+1800,Green Twp,22045
+1930,Hamburg Boro,32606
+1980,Hampton Twp,23745
+2030,Hardyston Twp,21165
+2165,High Point Regional,25278
+2240,Hopatcong,22040
+2465,Kittatinny Regional,27113
+2490,Lafayette Twp,24033
+2615,Lenape Valley Regional,25722
+3300,Montague Twp,24861
+3590,Newton Town,24486
+3840,Ogdensburg Boro,20416
+4650,Sandyston-Walpack Twp,32538
+4960,Sparta Twp,21501
+5030,Stanhope Boro,22869
+5040,Stillwater Twp,24034
+5100,Sussex-Wantage Regional,24247
+5110,Sussex County Vocational,19238
+5360,Vernon Twp,21483
+5435,Wallkill Valley Regional,21854
+0310,Berkeley Heights Twp,20984
+0850,Clark Twp,17559
+0980,Cranford Twp,19072
+1320,Elizabeth City,23126
+1710,Garwood Boro,14948
+2190,Hillside Twp,22677
+2420,Kenilworth Boro,20329
+2660,Linden City,22990
+3470,Mountainside Boro,17732
+3560,New Providence Boro,20237
+4160,Plainfield City,27019
+4290,Rahway City,21615
+4540,Roselle Boro,21827
+4550,Roselle Park Boro,23451
+4670,Scotch Plains-Fanwood Reg,18134
+5000,Springfield Twp,20041
+5090,Summit City,19263
+5260,Union County Vocational,17337
+5290,Union Twp,18686
+5730,Westfield Town,20371
+5810,Winfield Twp,27803
+0030,Allamuchy Twp,19490
+0070,Alpha Boro,20819
+0280,Belvidere Town,20398
+0400,Blairstown Twp,19803
+1620,Franklin Twp,21738
+1670,Frelinghuysen Twp,19085
+1785,Great Meadows Regional,18051
+1840,Greenwich Twp,21643
+1870,Hackettstown,21989
+2040,Harmony Twp,28313
+2250,Hope Twp,25648
+2470,Knowlton Twp,21377
+2790,Lopatcong Twp,21298
+2970,Mansfield Twp,19856
+3675,North Warren Regional,26274
+3890,Oxford Twp,19331
+4100,Phillipsburg Town,20278
+4200,Pohatcong Twp,20085
+5450,Warren Co Special Service,50000
+5460,Warren County Vocational,24972
+5465,Warren Hills Regional,22838
+5480,Washington Boro,19444
+5530,Washington Twp,18690
+5780,White Twp,23533

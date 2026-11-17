@@ -1,249 +1,249 @@
-district_name,school_code,school_name,math_mean_scale_score
-Atlantic City School District,010,Atlantic City High School,NA
-Egg Harbor Township School District,005,Egg Harbor Township High School,783
-Mainland Regional High School,050,Mainland Regional High School,NA
-Bergen County Vocational Technical School District,020,Bergen County Academies,812
-Bergen County Vocational Technical School District,070,Bergen County Technical High School - Teterboro,801
-Bergenfield Borough School District,020,Bergenfield High School,772
-Cliffside Park School District,030,Cliffside Park High School,760
-Cresskill Public School District,040,Cresskill High School,764
-Cresskill Public School District,045,Cresskill Middle School,771
-Englewood Public School District,040,Dwight Morrow High School/Academies@Englewood,NA
-Fair Lawn Public School District,050,Fair Lawn High School,774
-Fair Lawn Public School District,060,Thomas Jefferson Middle School,812
-Fair Lawn Public School District,070,Memorial Middle School,NA
-Fort Lee School District,050,Fort Lee High School,802
-Garfield Public School District,050,Garfield High School,NA
-Glen Rock Public School District,050,Glen Rock High School,787
-Hackensack School District,050,Hackensack High School,746
-Hasbrouck Heights School District,050,Hasbrouck Heights High School,NA
-Haworth Public School District,050,Haworth Public School,NA
-Leonia Public School District,050,Leonia High School,780
-Lyndhurst Public School District,050,Lyndhurst High School,NA
-Mahwah Township Public School District,050,Mahwah High School,803
-Montvale Board Of Education School District,020,Fieldstone Middle School,NA
-Northern Highlands Regional High School District,050,Northern Highlands Regional High School,NA
-Northern Valley Regional High School District,050,Northern Valley Regional High School At Demarest,827
-Paramus Public School District,050,Paramus High School,NA
-Ramapo Indian Hills Regional High School District,030,Indian Hills High School,NA
-Ramapo Indian Hills Regional High School District,050,Ramapo High School,777
-Ramsey School District,050,Ramsey High School,793
-Ridgefield School District,050,Ridgefield Memorial High School,NA
-Ridgewood Public School District,050,Ridgewood High School,819
-River Dell Regional School District,050,River Dell Regional High School,NA
-Rutherford School District,050,Rutherford High School,NA
-Tenafly Public School District,050,Tenafly High School,806
-Westwood Regional School District,050,Westwood Regional High School,NA
-Woodcliff Lake School District,050,Woodcliff Middle School,NA
-Wyckoff Township Public School District,025,Dwight D. Eisenhower Middle School,NA
-Burlington County Institute Of Technology School District,030,Burlington County Institute Of Technology - Westampton,743
-Burlington County Institute Of Technology School District,040,Burlington County Institute Of Technology - Medford,748
-Cinnaminson Township School District,030,Cinnaminson High School,NA
-Delran Township School District,005,Delran High School,NA
-Lenape Regional High School District,040,Cherokee High School,781
-Lenape Regional High School District,050,Lenape High School,791
-Lenape Regional High School District,070,Seneca High School,NA
-Moorestown Township Public School District,040,Moorestown High School,809
-Northern Burlington County Regional School District,050,Northern Burlington County Regional High School,NA
-Palmyra Public School District,050,Palmyra High School,NA
-Pemberton Township School District,055,Pemberton Township High School,NA
-Rancocas Valley Regional High School District,050,Rancocas Valley Regional High School,NA
-Riverside Township School District,050,Riverside High School,748
-Willingboro Public School District,053,Willingboro High School,NA
-Black Horse Pike Regional School District,030,Timber Creek Regional High School,NA
-Camden City School District,030,Camden High School,NA
-Camden City School District,245,Creative Arts High School,727
-Camden County Technical School District,030,Camden County Technical School-Pennsauken,734
-Camden County Technical School District,040,Camden County Technical School-Gtc,738
-Cherry Hill School District,030,Cherry Hill High School East,792
-Cherry Hill School District,040,Cherry Hill High School West,776
-Collingswood Public School District,030,Collingswood High School,NA
-Eastern Camden County Regional School District,050,Eastern Camden County Regional High School,NA
-Haddon Township School District,050,Haddon Township High School,NA
-Haddonfield School District,050,Haddonfield Memorial High School,NA
-Pennsauken Township Board Of Education School District,050,Pennsauken High School,736
-Sterling Regional School District,050,Sterling High School,NA
-Ocean City School District,050,Ocean City High School,753
-Wildwood City School District,050,Wildwood High School,NA
-Cumberland County Board Of Vocational Education,030,Cumberland County Technical Education Center,751
-Vineland Public School District,050,Vineland Senior High School,723
-Belleville Public School District,020,Belleville High School,NA
-Essex County Schools Of Technology,050,"Essex County Donald M. Payne, Sr. School Of Technology",NA
-Glen Ridge Public School District,050,Glen Ridge High School,NA
-Irvington Public School District,050,Irvington High School,NA
-Livingston Board Of Education School District,050,Livingston High School,811
-Millburn Township School District,050,Millburn High School,793
-Montclair Public School District,050,Montclair High School,793
-Nutley Public School District,050,Nutley High School,NA
-South Orange-Maplewood School District,030,Columbia High School,762
-Verona Public School District,050,Verona High School,NA
-West Essex Regional School District,050,West Essex High School,809
-West Orange Public Schools,050,West Orange High School,746
-West Orange Public Schools,090,Roosevelt Middle School,766
-West Orange Public Schools,135,Liberty Middle School,774
-Clearview Regional High School District,020,Clearview Regional High School,780
-Gateway Regional High School District,050,Gateway Regional High School,NA
-Glassboro School District,050,Glassboro High School,NA
-Gloucester County Vocational-Technical School District,010,Gloucester County Institute Of Technology,783
-Kingsway Regional School District,050,Kingsway Regional High School,772
-Paulsboro School District,050,Paulsboro High School,706
-Pitman Boro School District,050,Pitman Jr./Sr. High School,NA
-Washington Township School District,010,Washington Township High School,757
-West Deptford Township School District,050,West Deptford High School,NA
-Woodbury City Public School District,050,Woodbury Jr-Sr High School,NA
-Bayonne School District,020,Bayonne High School,NA
-Hoboken Public School District,005,Hoboken High School,NA
-Hudson County Schools Of Technology School District,030,County Prep High School,NA
-Secaucus School District,050,Secaucus High School,NA
-Weehawken Public School District,050,Weehawken High School,776
-West New York School District,050,Memorial High School,NA
-Delaware Valley Regional High School District,040,Delaware Valley Regional High School,NA
-Hunterdon Central Regional High School District,050,Hunterdon Central Regional High School District,771
-Hunterdon County Vocational School District,300,Hunterdon County Academies,NA
-Readington Township School District,050,Readington Middle School,807
-East Windsor Regional School District,050,Hightstown High School,771
-Hamilton Township Public School District,050,Hamilton East - Steinert,781
-Hamilton Township Public School District,060,Hamilton West-Watson,762
-Hopewell Valley Regional School District,030,Hopewell Valley Central High School,770
-Lawrence Township Public School District,040,Lawrence High School,NA
-Princeton Public School District,050,Princeton High School,790
-Princeton Public School District,085,Princeton Middle School,820
-Trenton Public School District,302,Trenton Central High School-9th Grade Academy,734
-Robbinsville Public School District,030,Robbinsville High School,781
-Robbinsville Public School District,040,Pond Road Middle School,819
-West Windsor-Plainsboro Regional School District,020,West Windsor-Plainsboro High School South,755
-West Windsor-Plainsboro Regional School District,025,West Windsor-Plainsboro High School North,767
-West Windsor-Plainsboro Regional School District,035,Thomas R Grover Middle School,800
-West Windsor-Plainsboro Regional School District,140,Community Middle School,810
-Carteret Public School District,030,Carteret High School,754
-Dunellen Public School District,040,Dunellen High School,745
-East Brunswick Township School District,055,Churchill Junior High School,805
-Edison Township School District,050,Edison High School,786
-Edison Township School District,053,John P. Stevens High School,801
-Highland Park Boro School District,050,Highland Park High School,767
-Metuchen Public School District,050,Metuchen High School,804
-Middlesex County Vocational And Technical School District,010,Edison Academy Magnet School,828
-Middlesex County Vocational And Technical School District,070,Woodbridge Academy Magnet School,803
-Monroe Township School District,005,Monroe Township High School,790
-North Brunswick Township School District,040,North Brunswick Township High School,777
-Old Bridge Township School District,040,Old Bridge High School,804
-Perth Amboy Public School District,050,Perth Amboy High School,754
-Piscataway Township School District,050,Piscataway Township High School,808
-Sayreville School District,050,Sayreville War Memorial High School,792
-South Brunswick School District,050,South Brunswick High School,796
-Woodbridge Township School District,040,John F. Kennedy Memorial High School,NA
-Freehold Regional High School District,010,Colts Neck High School,793
-Freehold Regional High School District,050,Freehold Borough High School,789
-Freehold Regional High School District,060,Howell High School,772
-Freehold Regional High School District,070,Manalapan High School,785
-Freehold Regional High School District,080,Marlboro High School,786
-Hazlet Township Public School District,050,Raritan High School,749
-Holmdel Township School District,020,Holmdel High School,799
-Long Branch Public School District,050,Long Branch High School,760
-Manalapan-Englishtown Regional School District,060,Manalapan-Englishtown Middle School,NA
-Manasquan School District,050,Manasquan High School,783
-Monmouth County Vocational School District,004,Communications High School,NA
-Monmouth County Vocational School District,010,High Technology High School,817
-Monmouth County Vocational School District,020,Marine Academy Of Science And Technology,792
-Monmouth County Vocational School District,025,Monmouth County Academy Of Allied Health And Science,791
-Monmouth County Vocational School District,028,Biotechnology High School,798
-Monmouth Regional High School,050,Monmouth Regional High School,NA
-Neptune Township School District,050,Neptune High School,NA
-Township Of Ocean School District,030,Ocean Township High School,NA
-Red Bank Regional School District,050,Red Bank Regional High School,NA
-Rumson-Fair Haven Regional High School District,050,Rumson-Fair Haven Regional High School,795
-Shore Regional High School District,050,Shore Regional High School,NA
-Upper Freehold Regional School District,050,Allentown High School,786
-Wall Township Public School District,050,Wall High School,783
-School District Of The Chathams,010,Chatham High School,809
-Jefferson Township Public School District,020,Jefferson Township High School,NA
-Kinnelon School District,050,Kinnelon High School,NA
-Madison Public School District,050,Madison High School,800
-Montville Township School District,010,Montville Township High School,NA
-Morris County Vocational School District,020,"Academy For Mathematics, Science And Engineering",817
-Morris County Vocational School District,050,Morris County School Of Technology,784
-Morris Hills Regional School District,050,Morris Hills High School,812
-Morris Hills Regional School District,060,Morris Knolls High School,792
-Morris School District,050,Morristown High School,767
-Mount Olive Township School District,040,Mount Olive Middle School,818
-Mountain Lakes Public School District,050,Mountain Lakes High School,777
-Parsippany-Troy Hills Township School District,050,Parsippany High School,823
-Parsippany-Troy Hills Township School District,053,Parsippany Hills High School,804
-Pequannock Township School District,050,Pequannock Township High School,NA
-Randolph Township School District,050,Randolph High School,795
-West Morris Regional High School District,030,West Morris Central High School,809
-West Morris Regional High School District,050,West Morris Mendham High School,800
-Barnegat Township School District,030,Barnegat High School,NA
-Jackson Township School District,020,Jackson Memorial High School,792
-Jackson Township School District,025,Jackson Liberty High School,775
-Lacey Township School District,020,Lacey Township High School,780
-Manchester Township School District,040,Manchester Township High School,NA
-Point Pleasant Borough School District,030,Point Pleasant Borough High School,NA
-Point Pleasant Beach School District,050,Point Pleasant Beach High School,NA
-Southern Regional School District,050,Southern Regional High School,NA
-Toms River Regional School District,030,Toms River High School East,790
-Toms River Regional School District,050,Toms River High School South,NA
-Clifton Public School District,030,Clifton High School,769
-Lakeland Regional High School District,050,Lakeland Regional High School,NA
-Passaic City School District,050,Passaic High School No. 12,683
-Passaic County Manchester Regional High School District,010,Passaic County-Manchester Regional High School,NA
-Paterson Public School District,040,Eastside High School,NA
-Pompton Lakes School District,050,Pompton Lakes High School,NA
-West Milford Township Public School District,040,West Milford High School,750
-Pennsville School District,050,Pennsville Memorial High School,NA
-Salem County Vocational Technical School District,040,Salem County Career And Technical High School,767
-Woodstown-Pilesgrove Regional School District,050,Woodstown High School,757
-Bernards Township School District,050,Ridge High School,814
-Bound Brook School District,020,Bound Brook High School,NA
-Bridgewater-Raritan Regional School District,005,Bridgewater-Raritan High School,791
-Franklin Township Public School District,050,Franklin High School,757
-Hillsborough Township Public School District,030,Hillsborough High School,811
-Montgomery Township School District,030,Montgomery High School,807
-Montgomery Township School District,070,Montgomery Upper Middle School,NA
-North Plainfield School District,050,North Plainfield High School,NA
-Somerset County Vocational And Technical School District,070,Somerset County Vocational Technical High School,789
-Somerset Hills Regional School District,020,Bernards High School,NA
-Somerville Public School District,050,Somerville High School,766
-Watchung Hills Regional High School District,050,Watchung Hills Regional High School,804
-Hopatcong Borough School District,030,Hopatcong High School,749
-Kittatinny Regional School District,050,Kittatinny Regional High School,NA
-Lenape Valley Regional High School District,050,Lenape Valley Regional High School,NA
-Sparta Township Public School District,050,Sparta High School,779
-Sussex County Technical School District,010,Sussex County Technical School,744
-Vernon Township School District,020,Vernon Township High School,791
-Berkeley Heights School District,005,Governor Livingston High School,802
-Clark Township Public School District,005,Arthur L. Johnson High School,NA
-Elizabeth Public Schools,025,Elizabeth High School - Frank J Cicarell Academy,760
-Elizabeth Public Schools,304,"K. Johnson, D. Vaughan, And M. Jackson Stem Academy",723
-Elizabeth Public Schools,401,John E. Dwyer Technology Academy,NA
-Elizabeth Public Schools,402,Admiral William F. Halsey Jr. Health & Public Safety Academy,NA
-Elizabeth Public Schools,403,Thomas Jefferson Arts Academy,723
-Elizabeth Public Schools,405,Alexander Hamilton Preparatory Academy,715
-Kenilworth School District,010,David Brearley Middle/High School,733
-Linden Public School District,050,Linden High School,NA
-New Providence School District,050,New Providence High School,NA
-Rahway Public School District,050,Rahway High School,726
-Roselle Public School District,010,Abraham Clark High School,NA
-Roselle Park Public School District,050,Roselle Park High School,744
-Springfield Public School District,010,Jonathan Dayton High School,NA
-Summit Public School District,050,Summit High School,NA
-Union County Vocational-Technical School District,020,Academy For Allied Health Sciences,793
-Union County Vocational-Technical School District,030,Academy For Information Technology,811
-Union County Vocational-Technical School District,040,Union County Magnet High School,825
-Union County Vocational-Technical School District,050,Union County Tech,NA
-Township Of Union School District,050,Union High School,NA
-Westfield Public School District,050,Westfield Senior High School,NA
-North Warren Regional,050,North Warren Regional School,NA
-Phillipsburg School District,050,Phillipsburg High School,785
-Warren County Vocational Technical School,050,Warren County Vocational Technical School,NA
-Warren Hills Regional School District,050,Warren Hills Regional High School,NA
-Foundation Academy Charter School,932,Foundation Academy Charter School,NA
-Central Jersey College Prep Charter School,900,Central Jersey College Prep Charter School,795
-Academy For Urban Leadership Charter School,901,Academy For Urban Leadership Charter School,NA
-Thomas Edison Energysmart Charter School,967,Thomas Edison Energysmart Charter School,803
-Beloved Community Charter,963,Beloved Community Charter School,NA
-Camden'S Promise Charter School,998,Camden'S Promise Charter School,732
-Princeton Charter School,930,Princeton Charter School,NA
-The Queen City Academy Charter School District,960,The Queen City Academy Charter School,696
-Creativity Colaboratory Charter School,923,Creativity Colaboratory Charter School,NA
-Mccorristin Charter School District,941,Mccorristin Charter School,711
+district_code,district_name,school_code,school_name,math_mean_scale_score
+0110,Atlantic City School District,010,Atlantic City High School,NA
+1310,Egg Harbor Township School District,005,Egg Harbor Township High School,783
+2910,Mainland Regional High School,050,Mainland Regional High School,NA
+0290,Bergen County Vocational Technical School District,020,Bergen County Academies,812
+0290,Bergen County Vocational Technical School District,070,Bergen County Technical High School - Teterboro,801
+0300,Bergenfield Borough School District,020,Bergenfield High School,772
+0890,Cliffside Park School District,030,Cliffside Park High School,760
+0990,Cresskill Public School District,040,Cresskill High School,764
+0990,Cresskill Public School District,045,Cresskill Middle School,771
+1370,Englewood Public School District,040,Dwight Morrow High School/Academies@Englewood,NA
+1450,Fair Lawn Public School District,050,Fair Lawn High School,774
+1450,Fair Lawn Public School District,060,Thomas Jefferson Middle School,812
+1450,Fair Lawn Public School District,070,Memorial Middle School,NA
+1550,Fort Lee School District,050,Fort Lee High School,802
+1700,Garfield Public School District,050,Garfield High School,NA
+1760,Glen Rock Public School District,050,Glen Rock High School,787
+1860,Hackensack School District,050,Hackensack High School,746
+2080,Hasbrouck Heights School District,050,Hasbrouck Heights High School,NA
+2090,Haworth Public School District,050,Haworth Public School,NA
+2620,Leonia Public School District,050,Leonia High School,780
+2860,Lyndhurst Public School District,050,Lyndhurst High School,NA
+2900,Mahwah Township Public School District,050,Mahwah High School,803
+3330,Montvale Board Of Education School District,020,Fieldstone Middle School,NA
+3700,Northern Highlands Regional High School District,050,Northern Highlands Regional High School,NA
+3710,Northern Valley Regional High School District,050,Northern Valley Regional High School At Demarest,827
+3930,Paramus Public School District,050,Paramus High School,NA
+4300,Ramapo Indian Hills Regional High School District,030,Indian Hills High School,NA
+4300,Ramapo Indian Hills Regional High School District,050,Ramapo High School,777
+4310,Ramsey School District,050,Ramsey High School,793
+4370,Ridgefield School District,050,Ridgefield Memorial High School,NA
+4390,Ridgewood Public School District,050,Ridgewood High School,819
+4405,River Dell Regional School District,050,River Dell Regional High School,NA
+4600,Rutherford School District,050,Rutherford High School,NA
+5160,Tenafly Public School District,050,Tenafly High School,806
+5755,Westwood Regional School District,050,Westwood Regional High School,NA
+5880,Woodcliff Lake School District,050,Woodcliff Middle School,NA
+5920,Wyckoff Township Public School District,025,Dwight D. Eisenhower Middle School,NA
+0610,Burlington County Institute Of Technology School District,030,Burlington County Institute Of Technology - Westampton,743
+0610,Burlington County Institute Of Technology School District,040,Burlington County Institute Of Technology - Medford,748
+0840,Cinnaminson Township School District,030,Cinnaminson High School,NA
+1060,Delran Township School District,005,Delran High School,NA
+2610,Lenape Regional High School District,040,Cherokee High School,781
+2610,Lenape Regional High School District,050,Lenape High School,791
+2610,Lenape Regional High School District,070,Seneca High School,NA
+3360,Moorestown Township Public School District,040,Moorestown High School,809
+3690,Northern Burlington County Regional School District,050,Northern Burlington County Regional High School,NA
+3920,Palmyra Public School District,050,Palmyra High School,NA
+4050,Pemberton Township School District,055,Pemberton Township High School,NA
+4320,Rancocas Valley Regional High School District,050,Rancocas Valley Regional High School,NA
+4450,Riverside Township School District,050,Riverside High School,748
+5805,Willingboro Public School District,053,Willingboro High School,NA
+0390,Black Horse Pike Regional School District,030,Timber Creek Regional High School,NA
+0680,Camden City School District,030,Camden High School,NA
+0680,Camden City School District,245,Creative Arts High School,727
+0700,Camden County Technical School District,030,Camden County Technical School-Pennsauken,734
+0700,Camden County Technical School District,040,Camden County Technical School-Gtc,738
+0800,Cherry Hill School District,030,Cherry Hill High School East,792
+0800,Cherry Hill School District,040,Cherry Hill High School West,776
+0940,Collingswood Public School District,030,Collingswood High School,NA
+1255,Eastern Camden County Regional School District,050,Eastern Camden County Regional High School,NA
+1890,Haddon Township School District,050,Haddon Township High School,NA
+1900,Haddonfield School District,050,Haddonfield Memorial High School,NA
+4060,Pennsauken Township Board Of Education School District,050,Pennsauken High School,736
+5035,Sterling Regional School District,050,Sterling High School,NA
+3780,Ocean City School District,050,Ocean City High School,753
+5790,Wildwood City School District,050,Wildwood High School,NA
+0995,Cumberland County Board Of Vocational Education,030,Cumberland County Technical Education Center,751
+5390,Vineland Public School District,050,Vineland Senior High School,723
+0250,Belleville Public School District,020,Belleville High School,NA
+1390,Essex County Schools Of Technology,050,"Essex County Donald M. Payne, Sr. School Of Technology",NA
+1750,Glen Ridge Public School District,050,Glen Ridge High School,NA
+2330,Irvington Public School District,050,Irvington High School,NA
+2730,Livingston Board Of Education School District,050,Livingston High School,811
+3190,Millburn Township School District,050,Millburn High School,793
+3310,Montclair Public School District,050,Montclair High School,793
+3750,Nutley Public School District,050,Nutley High School,NA
+4900,South Orange-Maplewood School District,030,Columbia High School,762
+5370,Verona Public School District,050,Verona High School,NA
+5630,West Essex Regional School District,050,West Essex High School,809
+5680,West Orange Public Schools,050,West Orange High School,746
+5680,West Orange Public Schools,090,Roosevelt Middle School,766
+5680,West Orange Public Schools,135,Liberty Middle School,774
+0870,Clearview Regional High School District,020,Clearview Regional High School,780
+1715,Gateway Regional High School District,050,Gateway Regional High School,NA
+1730,Glassboro School District,050,Glassboro High School,NA
+1775,Gloucester County Vocational-Technical School District,010,Gloucester County Institute Of Technology,783
+2440,Kingsway Regional School District,050,Kingsway Regional High School,772
+4020,Paulsboro School District,050,Paulsboro High School,706
+4140,Pitman Boro School District,050,Pitman Jr./Sr. High School,NA
+5500,Washington Township School District,010,Washington Township High School,757
+5620,West Deptford Township School District,050,West Deptford High School,NA
+5860,Woodbury City Public School District,050,Woodbury Jr-Sr High School,NA
+0220,Bayonne School District,020,Bayonne High School,NA
+2210,Hoboken Public School District,005,Hoboken High School,NA
+2295,Hudson County Schools Of Technology School District,030,County Prep High School,NA
+4730,Secaucus School District,050,Secaucus High School,NA
+5580,Weehawken Public School District,050,Weehawken High School,776
+5670,West New York School District,050,Memorial High School,NA
+1050,Delaware Valley Regional High School District,040,Delaware Valley Regional High School,NA
+2300,Hunterdon Central Regional High School District,050,Hunterdon Central Regional High School District,771
+2308,Hunterdon County Vocational School District,300,Hunterdon County Academies,NA
+4350,Readington Township School District,050,Readington Middle School,807
+1245,East Windsor Regional School District,050,Hightstown High School,771
+1950,Hamilton Township Public School District,050,Hamilton East - Steinert,781
+1950,Hamilton Township Public School District,060,Hamilton West-Watson,762
+2280,Hopewell Valley Regional School District,030,Hopewell Valley Central High School,770
+2580,Lawrence Township Public School District,040,Lawrence High School,NA
+4255,Princeton Public School District,050,Princeton High School,790
+4255,Princeton Public School District,085,Princeton Middle School,820
+5210,Trenton Public School District,302,Trenton Central High School-9th Grade Academy,734
+5510,Robbinsville Public School District,030,Robbinsville High School,781
+5510,Robbinsville Public School District,040,Pond Road Middle School,819
+5715,West Windsor-Plainsboro Regional School District,020,West Windsor-Plainsboro High School South,755
+5715,West Windsor-Plainsboro Regional School District,025,West Windsor-Plainsboro High School North,767
+5715,West Windsor-Plainsboro Regional School District,035,Thomas R Grover Middle School,800
+5715,West Windsor-Plainsboro Regional School District,140,Community Middle School,810
+0750,Carteret Public School District,030,Carteret High School,754
+1140,Dunellen Public School District,040,Dunellen High School,745
+1170,East Brunswick Township School District,055,Churchill Junior High School,805
+1290,Edison Township School District,050,Edison High School,786
+1290,Edison Township School District,053,John P. Stevens High School,801
+2150,Highland Park Boro School District,050,Highland Park High School,767
+3120,Metuchen Public School District,050,Metuchen High School,804
+3150,Middlesex County Vocational And Technical School District,010,Edison Academy Magnet School,828
+3150,Middlesex County Vocational And Technical School District,070,Woodbridge Academy Magnet School,803
+3290,Monroe Township School District,005,Monroe Township High School,790
+3620,North Brunswick Township School District,040,North Brunswick Township High School,777
+3845,Old Bridge Township School District,040,Old Bridge High School,804
+4090,Perth Amboy Public School District,050,Perth Amboy High School,754
+4130,Piscataway Township School District,050,Piscataway Township High School,808
+4660,Sayreville School District,050,Sayreville War Memorial High School,792
+4860,South Brunswick School District,050,South Brunswick High School,796
+5850,Woodbridge Township School District,040,John F. Kennedy Memorial High School,NA
+1650,Freehold Regional High School District,010,Colts Neck High School,793
+1650,Freehold Regional High School District,050,Freehold Borough High School,789
+1650,Freehold Regional High School District,060,Howell High School,772
+1650,Freehold Regional High School District,070,Manalapan High School,785
+1650,Freehold Regional High School District,080,Marlboro High School,786
+2105,Hazlet Township Public School District,050,Raritan High School,749
+2230,Holmdel Township School District,020,Holmdel High School,799
+2770,Long Branch Public School District,050,Long Branch High School,760
+2920,Manalapan-Englishtown Regional School District,060,Manalapan-Englishtown Middle School,NA
+2930,Manasquan School District,050,Manasquan High School,783
+3260,Monmouth County Vocational School District,004,Communications High School,NA
+3260,Monmouth County Vocational School District,010,High Technology High School,817
+3260,Monmouth County Vocational School District,020,Marine Academy Of Science And Technology,792
+3260,Monmouth County Vocational School District,025,Monmouth County Academy Of Allied Health And Science,791
+3260,Monmouth County Vocational School District,028,Biotechnology High School,798
+3270,Monmouth Regional High School,050,Monmouth Regional High School,NA
+3510,Neptune Township School District,050,Neptune High School,NA
+3810,Township Of Ocean School District,030,Ocean Township High School,NA
+4365,Red Bank Regional School District,050,Red Bank Regional High School,NA
+4580,Rumson-Fair Haven Regional High School District,050,Rumson-Fair Haven Regional High School,795
+4760,Shore Regional High School District,050,Shore Regional High School,NA
+5310,Upper Freehold Regional School District,050,Allentown High School,786
+5420,Wall Township Public School District,050,Wall High School,783
+0785,School District Of The Chathams,010,Chatham High School,809
+2380,Jefferson Township Public School District,020,Jefferson Township High School,NA
+2460,Kinnelon School District,050,Kinnelon High School,NA
+2870,Madison Public School District,050,Madison High School,800
+3340,Montville Township School District,010,Montville Township High School,NA
+3365,Morris County Vocational School District,020,"Academy For Mathematics, Science And Engineering",817
+3365,Morris County Vocational School District,050,Morris County School Of Technology,784
+3370,Morris Hills Regional School District,050,Morris Hills High School,812
+3370,Morris Hills Regional School District,060,Morris Knolls High School,792
+3385,Morris School District,050,Morristown High School,767
+3450,Mount Olive Township School District,040,Mount Olive Middle School,818
+3460,Mountain Lakes Public School District,050,Mountain Lakes High School,777
+3950,Parsippany-Troy Hills Township School District,050,Parsippany High School,823
+3950,Parsippany-Troy Hills Township School District,053,Parsippany Hills High School,804
+4080,Pequannock Township School District,050,Pequannock Township High School,NA
+4330,Randolph Township School District,050,Randolph High School,795
+5660,West Morris Regional High School District,030,West Morris Central High School,809
+5660,West Morris Regional High School District,050,West Morris Mendham High School,800
+0185,Barnegat Township School District,030,Barnegat High School,NA
+2360,Jackson Township School District,020,Jackson Memorial High School,792
+2360,Jackson Township School District,025,Jackson Liberty High School,775
+2480,Lacey Township School District,020,Lacey Township High School,780
+2940,Manchester Township School District,040,Manchester Township High School,NA
+4210,Point Pleasant Borough School District,030,Point Pleasant Borough High School,NA
+4220,Point Pleasant Beach School District,050,Point Pleasant Beach High School,NA
+4950,Southern Regional School District,050,Southern Regional High School,NA
+5190,Toms River Regional School District,030,Toms River High School East,790
+5190,Toms River Regional School District,050,Toms River High School South,NA
+0900,Clifton Public School District,030,Clifton High School,769
+2510,Lakeland Regional High School District,050,Lakeland Regional High School,NA
+3970,Passaic City School District,050,Passaic High School No. 12,683
+3980,Passaic County Manchester Regional High School District,010,Passaic County-Manchester Regional High School,NA
+4010,Paterson Public School District,040,Eastside High School,NA
+4230,Pompton Lakes School District,050,Pompton Lakes High School,NA
+5650,West Milford Township Public School District,040,West Milford High School,750
+4075,Pennsville School District,050,Pennsville Memorial High School,NA
+4640,Salem County Vocational Technical School District,040,Salem County Career And Technical High School,767
+5910,Woodstown-Pilesgrove Regional School District,050,Woodstown High School,757
+0350,Bernards Township School District,050,Ridge High School,814
+0490,Bound Brook School District,020,Bound Brook High School,NA
+0555,Bridgewater-Raritan Regional School District,005,Bridgewater-Raritan High School,791
+1610,Franklin Township Public School District,050,Franklin High School,757
+2170,Hillsborough Township Public School District,030,Hillsborough High School,811
+3320,Montgomery Township School District,030,Montgomery High School,807
+3320,Montgomery Township School District,070,Montgomery Upper Middle School,NA
+3670,North Plainfield School District,050,North Plainfield High School,NA
+4810,Somerset County Vocational And Technical School District,070,Somerset County Vocational Technical High School,789
+4815,Somerset Hills Regional School District,020,Bernards High School,NA
+4820,Somerville Public School District,050,Somerville High School,766
+5550,Watchung Hills Regional High School District,050,Watchung Hills Regional High School,804
+2240,Hopatcong Borough School District,030,Hopatcong High School,749
+2465,Kittatinny Regional School District,050,Kittatinny Regional High School,NA
+2615,Lenape Valley Regional High School District,050,Lenape Valley Regional High School,NA
+4960,Sparta Township Public School District,050,Sparta High School,779
+5110,Sussex County Technical School District,010,Sussex County Technical School,744
+5360,Vernon Township School District,020,Vernon Township High School,791
+0310,Berkeley Heights School District,005,Governor Livingston High School,802
+0850,Clark Township Public School District,005,Arthur L. Johnson High School,NA
+1320,Elizabeth Public Schools,025,Elizabeth High School - Frank J Cicarell Academy,760
+1320,Elizabeth Public Schools,304,"K. Johnson, D. Vaughan, And M. Jackson Stem Academy",723
+1320,Elizabeth Public Schools,401,John E. Dwyer Technology Academy,NA
+1320,Elizabeth Public Schools,402,Admiral William F. Halsey Jr. Health & Public Safety Academy,NA
+1320,Elizabeth Public Schools,403,Thomas Jefferson Arts Academy,723
+1320,Elizabeth Public Schools,405,Alexander Hamilton Preparatory Academy,715
+2420,Kenilworth School District,010,David Brearley Middle/High School,733
+2660,Linden Public School District,050,Linden High School,NA
+3560,New Providence School District,050,New Providence High School,NA
+4290,Rahway Public School District,050,Rahway High School,726
+4540,Roselle Public School District,010,Abraham Clark High School,NA
+4550,Roselle Park Public School District,050,Roselle Park High School,744
+5000,Springfield Public School District,010,Jonathan Dayton High School,NA
+5090,Summit Public School District,050,Summit High School,NA
+5260,Union County Vocational-Technical School District,020,Academy For Allied Health Sciences,793
+5260,Union County Vocational-Technical School District,030,Academy For Information Technology,811
+5260,Union County Vocational-Technical School District,040,Union County Magnet High School,825
+5260,Union County Vocational-Technical School District,050,Union County Tech,NA
+5290,Township Of Union School District,050,Union High School,NA
+5730,Westfield Public School District,050,Westfield Senior High School,NA
+3675,North Warren Regional,050,North Warren Regional School,NA
+4100,Phillipsburg School District,050,Phillipsburg High School,785
+5460,Warren County Vocational Technical School,050,Warren County Vocational Technical School,NA
+5465,Warren Hills Regional School District,050,Warren Hills Regional High School,NA
+6017,Foundation Academy Charter School,932,Foundation Academy Charter School,NA
+6018,Central Jersey College Prep Charter School,900,Central Jersey College Prep Charter School,795
+6032,Academy For Urban Leadership Charter School,901,Academy For Urban Leadership Charter School,NA
+6081,Thomas Edison Energysmart Charter School,967,Thomas Edison Energysmart Charter School,803
+6082,Beloved Community Charter,963,Beloved Community Charter School,NA
+6107,Camden'S Promise Charter School,998,Camden'S Promise Charter School,732
+7540,Princeton Charter School,930,Princeton Charter School,NA
+7600,The Queen City Academy Charter School District,960,The Queen City Academy Charter School,696
+7897,Creativity Colaboratory Charter School,923,Creativity Colaboratory Charter School,NA
+7902,Mccorristin Charter School District,941,Mccorristin Charter School,711
