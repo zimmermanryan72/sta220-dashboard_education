@@ -8,12 +8,19 @@ Raw test scores were collected from nj.gov's School Year Assesement
 Reports: https://www.nj.gov/education/assessment/results/reports/
 2425/index.shtml.
 
-Cost Per Pupil, Administrative Salaries, and the Key was collected from nj.gov's User_Friendly 
+Cost Per Pupil and the Key was collected from nj.gov's User_Friendly 
 Budget page under the Department of Education: https://www.nj.gov/
 education/budget/ufb/2526/
 
 Student to faculty ratios were found on nj.gov's school performance reports page under
 the Department of Education: https://www.nj.gov/education/spr/download/
+
+Median Household income was found in the US Census Bureau Website under table 
+B19013, Median household income over the past 12 months:
+https://data.census.gov/table?q=B19013&g=040XX00US34,34$1600000
+
+Population Density was found from the department of labor website:
+https://www.nj.gov/labor/labormarketinformation/assets/PDFs/dmograph/est/mcd/density.xlsx
 ## How do I run it?
 
 ## What does each script do?
@@ -58,3 +65,19 @@ Rename all columns to be in snake case
 *Note: For student to teacher ratios, the original sheet contained
 too much data to fit into an excel sheet, so the raw data in the files
 is only the sheet that pertains to the student ratios.
+
+clean_median_income 
+Created by getting rid of the first row which were only labels, then
+deleting the last column because the margin of error was not needed. 
+
+Then we changed the names to snake case.
+
+clean_population_density 
+Created by eliminating the first four rows
+of the sheet, along with the seventh column because it was empty. 
+
+Then there was also extra writing at the bottom that was not in the table,
+so that was deleted. 
+
+Then again, we change the column names to snake case,
+tweaking them slightly to be more descriptive.
