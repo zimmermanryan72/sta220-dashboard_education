@@ -9,7 +9,7 @@ library(tidyverse)
 # The Data ---------------------------------------------------------------------------------------
 
 # Save your cleaned data in app/data/, then delete the # below.
-budget_scores <- read_csv("data/school_data.csv")
+school_data <- read_csv("data/school_data.csv")
 
 # The UI (what the reader sees) ------------------------------------------------------------------
 
@@ -17,7 +17,7 @@ ui <- fluidPage(
 
   titlePanel("Administrative Decisions and their affects on Standardized State Test Scores"),
   p("For: High School Administrators"),
-  p("The decision: Should we change our District to increase Test Scores?"),
+  p("The decision: Should we make change in our District to increase Test Scores?"),
 
   selectInput(inputId = "Scores", label = "Which scores do you want to look at:", 
               choices = c("All (Adjusted to be on the same scale)", "English", "Math", "Science")),
