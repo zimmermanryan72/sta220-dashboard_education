@@ -18,9 +18,14 @@ the Department of Education: https://www.nj.gov/education/spr/download/
 Median Household income was found in the US Census Bureau Website under table 
 B19013, Median household income over the past 12 months:
 https://data.census.gov/table?q=B19013&g=040XX00US34,34$1600000
+This product uses the Census Bureau Data API but is not endorsed or certified by the Census Bureau.
 
 Population Density was found from the department of labor website:
 https://www.nj.gov/labor/labormarketinformation/assets/PDFs/dmograph/est/mcd/density.xlsx
+
+This product uses the Census Bureau Data API but is not endorsed or certified by the Census Bureau.
+This product uses NJ State Data but is not endorsement, recommended, or favored by the State of
+New Jersey, its officer, employees, or agents.
 ## How do I run it?
 
 ## What does each script do?
@@ -30,12 +35,11 @@ data/: raw files, never edited by hand, as well as edited files.
 scripts/: run in order by number.
 output/: made by the scripts.
 ## Who made it, and when was it last updated?
-Ryan Zimmerman, 11/17/2026
+Ryan Zimmerman, 11/20/2026
 
 ##Manually Curating Data for R scripts
-clean_test_scores for Algebra 2, 9th grade English,
-and 11th grade Science were created by:
-
+__clean_test_scores for Algebra 2, 9th grade English,__
+__and 11th grade Science were created by:__
 Delete the first two lines in the excel sheet. The first two rows
 of each sheet was only the instructions on how to read the table
 and a couple of notes. 
@@ -49,8 +53,7 @@ Valid Scores
 Rename Columns
 Rename all columns in test scores to be in snake case
 
-For student to teacher ratios, we did a similar thing:
-
+__For student to teacher ratios, we did a similar thing:__
 Delete the first three lines in the excel sheet. The first rows
 of each sheet was only the instructions on how to read the table
 and a couple of notes. Also, the last row contained a cell that had
@@ -66,7 +69,7 @@ Rename all columns to be in snake case
 too much data to fit into an excel sheet, so the raw data in the files
 is only the sheet that pertains to the student ratios.
 
-clean_median_income 
+__clean_median_income __
 Created by getting rid of the first row which were only labels, then
 deleting the last column because the margin of error was not needed. 
 
